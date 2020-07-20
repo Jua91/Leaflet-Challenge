@@ -16,7 +16,8 @@ The visualzation includes
    * A legend that will provide context for your map data.
 
 ![Step-1](Images/Leaflet_Step_1.png)
-[Leaflet-Step-1](https://jua91.github.io/Leaflet-Challenge/Leaflet-Step-1/index.html)
+
+The Level-1 page can be accessed [here](https://jua91.github.io/Leaflet-Challenge/Leaflet-Step-1/index.html)
 
 
 ## Level-2: Advanced Visualization
@@ -31,4 +32,5 @@ The visualzation includes
 * Layer controls to our map was created.
 
 ![Step-2](Images/Leaflet_Step_2.png)
-[Leaflet-Step-2](https://jua91.github.io/Leaflet-Challenge/Leaflet-Step-2/index.html)
+
+The Level-2 page can be accessed [here](https://jua91.github.io/Leaflet-Challenge/Leaflet-Step-2/index.html)
